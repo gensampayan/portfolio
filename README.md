@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting started
 
 This project was created with `create-uplift-project`
@@ -54,3 +55,6 @@ For more information, check [ESLint documentation](https://eslint.org/)
 ## Learn More
 
 You can learn more in the [Vite documentation](https://vitejs.dev/guide/)
+=======
+# portfolio
+>>>>>>> origin/main
